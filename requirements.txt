@@ -1,0 +1,4 @@
+mediapy
+numpy
+tensorflow
+tensorflow_hub
